@@ -4,7 +4,7 @@ A intenção desse projeto é exercitar minhas habilidades como desenvolvedor we
 
 - [ ] Html e CSS;
 - [ ] Html, CSS e Javascript(Frontend);
-- [ ] Refatoração com nunjucks;
+- [ ] Refatoração de páginas html usando jquery;
 - [ ] Banco de dados;
 - [ ] Deploy github.io;
 
